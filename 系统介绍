@@ -1,3 +1,9 @@
+AutomationTestSystem是一个多功能自动化测试系统，使用JavaFx编写的Windows应用程序，可用于Appium，Selenium，RestAssured等多框架应用的测试
+Appium是一个移动端的自动化框架，可用于测试原生应用，移动网页应用和混合型应用，可用于Android和IOS以及Firefox OS等操作系统
+Selenium是一个用于Web应用程序的自动化测试框架，直接运行在浏览器中，就像真正的用户在操作一样
+Rest Assured是一套由Java实现的REST API测试框架，它是一个轻量级的REST API 客户端，可以直接编写代码向服务器端发起 HTTP 请求，并验证返回结果
+其中最重要的是AutomationTestSystem是跨平台的，何为跨平台，意思就是一套系统兼容多个平台，可以针对不同的平台用一套方法来编写测试用例
+
 JavaFx + Appium + Selenium + Rest Assured + JDBC + Atom + Xml + Git + Maven + Ant + TestNG + App Inspector
 使用JavaFx作为项目编程语言
 使用Appium作为App项目底层服务驱动框架
