@@ -1,0 +1,2 @@
+# AutomationTestSystem-
+是一个多功能自动化测试系统，使用JavaFx编写的Windows应用程序，可用于Appium，Selenium，RestAssured等多框架应用的测试
